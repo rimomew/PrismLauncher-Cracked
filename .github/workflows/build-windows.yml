@@ -14,7 +14,7 @@ jobs:
       BUILD_TYPE: Release
       BUILD_PLATFORM: custom
       CMAKE_PRESET: windows_msvc
-      PRISMLAUNCHER_VERSION: custom-build
+      PRISMLAUNCHER_VERSION: 11.0.3
 
     steps:
       - name: Checkout
